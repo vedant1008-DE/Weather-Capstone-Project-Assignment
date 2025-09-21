@@ -1,0 +1,11 @@
+pandas
+requests
+sqlalchemy
+psycopg2-binary
+streamlit
+plotly
+scikit-learn
+statsmodels
+joblib
+python-dotenv
+reportlab
